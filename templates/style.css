@@ -1,0 +1,23 @@
+h1{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.contianer{
+    margin: auto;
+    border: 2px solid black;
+    width: 1000px;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.box{
+    background-color: aqua;
+    border: 2px solid black;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    
+}
